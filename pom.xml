@@ -23,9 +23,9 @@
         </configuration>
       </plugin>
     </plugins>
-    <properties>
-      <sonar.organization>lleonbuniandes</sonar.organization>
-      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties>
   </build>
+  <properties>
+    <sonar.organization>lleonbuniandes</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 </project>
